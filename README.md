@@ -16,6 +16,11 @@ numpy – for numerical operations
 matplotlib – for visualization
 scikit-learn – for K-Means clustering
 
+
+## How to Run
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run the code: `python customerSegmentation.py`
+
 ### Plots
 
 **Elbow Method Plot:**  
